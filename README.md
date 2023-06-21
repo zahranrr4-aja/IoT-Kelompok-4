@@ -10,6 +10,6 @@ Anggota Kelompok:
 3. Program Job 4  
 4. Program Job 5  
 5. Program IoT dengan Dashboard (Firebase)
-6. Video Job 1 - 5
+6. Video Job 1 - 5 (https://drive.google.com/file/d/1zwjmJ1KYpiQARjBiz-59A8QOAItF6s71/view?usp=drive_link)  
 7. Video IoT dengan Dashboard (Firebase)
 8. Laporan Akhir
